@@ -19,8 +19,8 @@ services:
 
 # render.yaml
 
-services: 
-  type: pserv 
-  name: selenium-standalone-chrome-debug 
-  env: docker 
-  dockerfilePath: ./Dockerfile.selenium
+# services: 
+#   type: pserv 
+#   name: selenium-standalone-chrome-debug 
+#   env: docker 
+#   dockerfilePath: ./Dockerfile.selenium
