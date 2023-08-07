@@ -1,0 +1,9 @@
+*.env
+Testing.py
+
+/_pycache_/*
+
+
+tempCodeRunnerFile.py
+
+
