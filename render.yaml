@@ -1,0 +1,17 @@
+# services:
+  # - type: web
+  #   name: chrome
+  #   runtime: docker
+  #   image: selenium/standalone-chrome
+  #   ports:
+  #     - port: 4444
+  #       protocol: TCP
+  #       external: true
+  #     - port: 7900
+  #       protocol: TCP
+  #       external: true
+  #   envVars:
+  #     - key: SE_VNC_NO_PASSWORD
+  #       value: 1
+  #     - key: SE_VNC_VIEW_ONLY
+  #       value: 1
